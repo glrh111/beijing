@@ -27,7 +27,7 @@ class Application(tornado.web.Application):
             ),
             static_path=os.path.join(
                 os.path.dirname(__file__),
-                'static'
+                'frontend'
             ),
             xsrf_cookies=True
         )
