@@ -1,7 +1,4 @@
 "use strict";
-/**
- * Created by glrh11 on 16-10-26.
- */
 var platform_browser_dynamic_1 = require('@angular/platform-browser-dynamic');
 var app_module_1 = require('./app.module');
 var platform = platform_browser_dynamic_1.platformBrowserDynamic();

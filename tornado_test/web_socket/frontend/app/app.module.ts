@@ -1,12 +1,14 @@
-/**
- * Created by glrh11 on 16-10-26.
- */
 import { NgModule }      from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { AppComponent } from './chat/app.component';
+import { AppComponent }   from './app.component';
+import { HttpModule } from '@angular/http'
+
 @NgModule({
-    imports:      [ BrowserModule ],
-    declarations: [ AppComponent ],
-    bootstrap: [ AppComponent ]
+  imports:      [
+      BrowserModule,
+      HttpModule
+  ],
+  declarations: [ AppComponent ],
+  bootstrap:    [ AppComponent ]
 })
 export class AppModule { }
