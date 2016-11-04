@@ -1,7 +1,5 @@
 *.pyc
 
 # npm related
-tornado_test/web_socket/frontend/node_modules/*
-tornado_test/web_socket/frontend/typings/*
-
-ts_test/async/node_modules/*
+node_modules/
+bower_components/

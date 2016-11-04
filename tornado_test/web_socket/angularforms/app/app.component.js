@@ -9,20 +9,16 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 /**
- * Created by glrh11 on 16-11-3.
+ * Created by glrh11 on 16-10-31.
  */
 var core_1 = require('@angular/core');
 var AppComponent = (function () {
     function AppComponent() {
-        this.title = 'heiheihei';
     }
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            templateUrl: 'templates/app.html',
-            styleUrls: [
-                'static/app.component.css'
-            ]
+            template: '<hero-form></hero-form>'
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);

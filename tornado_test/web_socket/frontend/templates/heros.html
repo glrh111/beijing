@@ -4,19 +4,23 @@
     <!--<h2>{{banner.url}}</h2>-->
 <!--</div>-->
 
+<div>
 
-<h1>{{title}}</h1>
 
-<p>
-    Heroes
-</p>
 
-<ul>
-    <li *ngFor="let hero of heroes">
-        {{hero.name}}
-    </li>
-</ul>
 
-<p>
-    My hero is <span>{{my_hero.name}}</span>
-</p>
+    <ul class="heroes">
+        <li *ngFor="let hero of heroes"
+            (click)="on_select(hero)"
+            [class.selected]="selected_hero == hero">
+            <span class="badge">{{hero.id}}</span>{{hero.name}}
+        </li>
+    </ul>
+
+        <!-- selected -->
+    <div *ngIf="selected_hero">
+        <h2>Selected: {{selected_hero.name | uppercase}}</h2>
+        <button (click)="goto_detail()">View Detail</button>
+    </div>
+
+</div>
