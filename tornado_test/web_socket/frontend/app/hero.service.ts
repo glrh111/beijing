@@ -4,21 +4,29 @@
 import { Injectable } from '@angular/core';
 
 import { Hero } from './hero'
-import { HEROES } from './mock-heroes';
+import {Http, Headers} from "@angular/http";
+
+import 'rxjs/add/operator/toPromise';
 
 @Injectable()
 export class HeroService {
+    // URL to web api
+    private heroes_url = 'app/heroes';
+
+    constructor(
+        private http: Http
+    ){}
+
     get_heroes(): Promise<Hero[]> {
-        return Promise.resolve(HEROES);
+        return this.http.get(this.heroes_url)
+            .toPromise()
+            .then(response=>response.json().data as Hero[]) // i change ES5 to ES 6
+            .catch(this.handleError);
     }
 
-    get_heroes_slowly(): Promise<Hero[]> {
-        return new Promise<Hero[]>(resolve =>
-            setTimeout(resolve, 2000))
-            .then(
-                ()=>
-                this.get_heroes()
-            );
+    private handleError(error: any): Promise<any> {
+        console.error('An error occurred', error);
+        return Promise.reject(error.message || error);
     }
 
     get_hero(id: number): Promise<Hero> {

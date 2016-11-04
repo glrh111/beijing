@@ -17,8 +17,11 @@ var hero_detail_component_1 = require('./hero-detail.component');
 var heroes_component_1 = require('./heroes.component');
 var hero_service_1 = require('./hero.service');
 var dashboard_component_1 = require("./dashboard.component");
-var hero_1 = require('./hero');
+var hero_1 = require("./hero");
 var app_routing_module_1 = require("./app-routing.module");
+// in memery
+var angular_in_memory_web_api_1 = require("angular-in-memory-web-api");
+var in_memory_data_service_1 = require('./in-memory-data.service');
 var AppModule = (function () {
     function AppModule() {
     }
@@ -28,7 +31,8 @@ var AppModule = (function () {
                 platform_browser_1.BrowserModule,
                 http_1.HttpModule,
                 forms_1.FormsModule,
-                app_routing_module_1.AppRoutingModule
+                app_routing_module_1.AppRoutingModule,
+                angular_in_memory_web_api_1.InMemoryWebApiModule.forRoot(in_memory_data_service_1.InMemoryDataService)
             ],
             providers: [
                 hero_service_1.HeroService,

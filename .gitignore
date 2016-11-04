@@ -3,3 +3,5 @@
 # npm related
 node_modules/
 bower_components/
+
+dist/
