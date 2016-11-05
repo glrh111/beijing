@@ -8,9 +8,24 @@ import tornado.web
 import tornado.websocket
 import os.path
 import uuid
+import random
 
 from tornado.options import define, options
-define('port', default=8080, help='application run on this port', type=int)
+define('port', default=5000, help='application run on this port', type=int)
+
+avatar_list = [
+    'http://o9hjg7h8u.bkt.clouddn.com/2016-6-19-2-11-14-13-793.jpg'
+]
+
+def get_random_avatar():
+    return avatar_list[random.randint(0, len(avatar_list)-1)]
+
+
+class WebSocketHandler(tornado.websocket.WebSocketHandler):
+    '''http://blog.csdn.net/orangleliu/article/details/42008423
+    '''
+    def check_origin(self, origin):
+        return True
 
 
 class Application(tornado.web.Application):
@@ -20,16 +35,16 @@ class Application(tornado.web.Application):
             (r'/chatsocket', ChatSocketHandler)
         ]
         settings = dict(
-            cookie_secret='TODO:GENERAYE SELF COOKIE',
+            # cookie_secret='TODO:GENERAYE SELF COOKIE',
             template_path=os.path.join(
                 os.path.dirname(__file__),
                 'templates'
             ),
             static_path=os.path.join(
                 os.path.dirname(__file__),
-                'frontend'
+                'static'
             ),
-            xsrf_cookies=True
+            # xsrf_cookies=False
         )
         super(Application, self).__init__(handlers=handlers, **settings)
 
@@ -39,7 +54,7 @@ class MainHandler(tornado.web.RequestHandler):
         self.render('index.html', messages=ChatSocketHandler.cache)
 
 
-class ChatSocketHandler(tornado.websocket.WebSocketHandler):
+class ChatSocketHandler(WebSocketHandler):
     waiters = set()
     cache = []
     cache_size = 200
@@ -76,7 +91,9 @@ class ChatSocketHandler(tornado.websocket.WebSocketHandler):
         if message_body:
             chat = {
                 'id': str(uuid.uuid4()),
-                'body': message_body
+                'body': message_body,
+                # todo : return personal information
+                'avatar': get_random_avatar()
             }
             chat['html'] = tornado.escape.to_basestring(
                 self.render_string('message.html', message=chat)
