@@ -1,0 +1,347 @@
+//登陆页面
+"More Option" = "Mais opção"
+"Log in with Twitter" = "Login com Twitter"
+"Log in with Facebook" = "Faça login com facebook"
+"By continuing you agree to the" = ""
+"and" = ""
+"Terms of Service" = "Termos de serviço"
+"Privacy Policy" = "Política de Privacidade"
+"Authorization failed" = "Falha na autorização"
+"Log In With Phone" = ""
+"Sign Up With Phone" = "Inscrever com celular"
+"Cancel" = "cancelar"
+"Log in with Instagram" = "Login com Instagram"
+//手机登陆界面
+//"LOG IN" = "เข้าสู่ระบบ";
+"Log In" = "Login"
+"Sign Up" = "Inscrever"
+" Phone Number" = "Número decelular"
+" Password" = "Senha"
+"Tap next to get an SMS comfirmation" = ""
+"NEXT" = "Seguinte"
+"The password should be 6 to 22 characters." = ""
+"Invalid phone number." = ""
+"Failed to send SMS. Please try again later." = "Falha ao enviar SMS. Por favor, tente novamente mais tarde."
+"Sending SMS too much times. Please wait one minute." = "Envindo de SMS demais vezes. Espre um minuto."
+"Account not exists" = "A conta não existe"
+"This number has already registered." = ""
+"This number has already been registered. Please login in." = "Este número já foi registrado. Faça login, por favor ."
+"Network timeout" = "tempo esgotado da rede"
+"Refresh" = "refrescar"
+"Account not exists." = ""
+"Login failed. Your account has been disabled." = "Falha no login. A sua conta foi desativada."
+//手机短信界面
+"Enter your code" = "Digite o seu código"
+"Send New Code" = "Enviar o novo código"
+//"Incorrect code" = "ส่งรหัสใหม่";
+"Incorrect verification code" = "Código de verificação incorreto"
+//手机登陆名字
+" Name" = "Nome"
+//主界面
+//"Hot" = "ฮิต";
+//"New" = "ใหม่!";
+"No connection. Please check your network." = "Sem ligação. Por favor, verifique a sua rede."
+//个人用户页
+"Following" = "Seguido"
+"Followers" = "Seguidores"
+"Level" = "Nível"
+"Settings" = "configurações"
+"Contributions" = "Contribuições"
+"Contributed" = "Contribuiu"
+//等级页
+"My Exp" = "A minha Exp"
+"Exp to next level" = "Exp para próximo nível"
+//"1. Log in everyday.\n2. Participate or interact in broadcast.\n3. Send virtual gifts to the VJ, the more you send, the faster your level rises." = "1. ทำการเข้าสู่ระบบของคุณในทุกๆ วัน\n2. มีส่วนร่วมหรือแชทโต้ตอบในการออนไลน์ \n3. ส่งของขวัญในขณะที่มีการออนไลน์ ยิ่งส่งมากระดับlevelยิ่งสูง";
+"How to raise your level" = "Como aumentar o seu nível"
+//"1. User Level is the sign of Kitty Live user loyalty.\n2. Higher level stands for higher status, and has more benefits." = "1. เลเวลของยูสเซอร์จะแสดงถึงความเป็นแฟนพันธ์แท้ Kitty Live \n2. Levelยิ่งสูงยิ่งได้รับสิทธิ์พิเศษต่างๆมากมาย";
+"Effective in counting : online 3 hours / day, watching 30 times / day, share 5 times / day, interactive 10 times / day, sending gift in unlimited number" = ""
+"Exclusive Icon" = "Ícone exclusivo"
+"Top Ranking" = "Topo ranking"
+"Special Efficacy" = "Eficácia Especial"
+"Online" = "Online"
+"Watching" = "Assistindo"
+"Send Gifts" = "Enviar presentes"
+"Share" = "Compartihar"
+"Interactive" = "Interativo"
+"My Rewards" = "Os meus prêmios"
+"times" = "vezes"
+//拉黑页
+"No blocked accounts" = "Nenhuma contas bloqueadas"
+"No followings" = "Nenhum seguido"
+"No followers" = "Nenhum seguidores"
+"No broadcasts" = ""
+//设置页
+"Feedback" = "Comentário"
+"Kitty Live Feedback" = ""
+"Terms of Service" = "Termos de serviço"
+"Privacy Policy" = "Política de Privacidade"
+"Version" = "versão"
+"Log Out" = "sair"
+"No moon" = "Nenhuma lua"
+//搜索页
+" Search" = "procurar"
+"No results" = "Nenhum resultado"
+"Block" = "Bloquear"
+"Follow" = "Seguimento"
+"Unblock" = "Desbloquear"
+" Name, ID" = "Nome, ID"
+//直播预开始页
+"Preparing..." = "Preparando..."
+"Start Broadcast" = "Iniciar a transmissão"
+"Turn on Location Services" = "Ativar serviços de localização"
+"【Settings】→【Privacy】→【Location Services】→【While Using the App】" = "【Configurações】 → 【Privacidade】 → 【Serviços de Localização】 → 【Enquanto Utiliza o Aplicativo】"
+"Turn On" = "ligar"
+"Broadcast failed. Please try again later." = ""
+"You are not permitted to broadcast since you have been blocked by the administrator." = "Você não tem permissão para transmitir porque você foi bloqueado pelo administrador."
+//直播页
+"What are you doing now?" = "O que você está fazendo agora?"
+"No connection. Please check your network." = "Sem ligação. Por favor, verifique a sua rede."
+"Sent " = "enviar"
+"OK" = "OK"
+"Stop broadcast?" = "Parar transmitir?"
+//"Are you sure to exit?" = "คุณแน่ใจที่จะออกจากระบบ?";
+"The VJ left temporarily." = "O VJ partiu temporariamente."
+"The VJ is back." = "O VJ está de volta."
+" and got " = ""
+"Each bullet msg will costs 5 rubies" = ""
+" shared the broadcast on " = ""
+//直播间
+"LIVE END" = "A transmissão acabou"
+"Back" = "Voltar"
+"Home" = "Casa"
+"Report this account?" = "Denunciar esta conta?"
+"Reported" = "Denunciou"
+"Report failed" = "Falha ao denunciar"
+"Block this account?" = "Bloquear esta conta?"
+"Blocked" = "Bloqueou"
+"Block Failed" = ""
+"Likes" = "Gostas"
+"Viewers" = "Espectador"
+"Lasted " = ""
+"Your broadcast has been stopped by administrator." = "A sua transmissão foi interrompida pelo o administrador."
+"Broadcast stopped by Kitty Live Administrator" = ""
+"Don’t cross the line" = "Não atravesse a linha"
+"Nudity or sexual content" = ""
+"Violent or graphic content" = ""
+"Harmful or dangerous content" = ""
+"Other hateful content" = ""
+"Awesome #livestream on " = ""
+"Awesome #Replay on " = ""
+"Open your eyes and see " = ""
+"Awesome #Replay on %1$s #KittyLive %2$s!#OpenYourEyes and see %3$s." = "fantástica # repetição em% 1 $ s #KittyLive% 2 $ s! # Abra seus olhos e veja% 3 $ s."
+"I'm livestreaming on #KittyLive, share the best moments, invite you to participate!" = ""
+"Wow! Thank you! Love your gifts." = ""
+"Manually saving screenshots to albums failed" = "Falha ao salvar manualmente as capturas de tela para álbuns"
+"Kitty Live haven't permission to access albums yet, the screenshot can't be saved to your local album automatically, don't forget to open the system permissions in settings!" = "Kitty Live ainda não tem permissão para acessar álbuns, a captura de tela não pode automaticamente ser salvada no seu álbum local, não se esqueça de activar as permissões do sistema na configurações!"
+"Screenshots have been saved to album successfully" = "As capturas de tela foram salvas no álbum com sucesso"
+"VJ will be back soon" = ""
+"VJ is back,live is ready to start" = ""
+"Great! Never missed live again, there is replay here." = ""
+"I followed and am waiting for next great live." = ""
+//个人编辑页
+"Profile" = "Perfil"
+"Avatar" = "Avatar"
+"Name" = "Nome"
+"Gender" = "Gênero"
+"Description" = "Descrição"
+"Choose a photo" = "Escolha uma foto"
+"Take a photo" = "Tire uma foto"
+"Save" = "Conservar"
+"Male" = "Masculino"
+"Female" = "Feminino"
+"Please enter the correct Email" = "Digite o e-mail correto"
+//聊天信息框
+" joined" = "Juntou"
+"NOTICE: " = ""
+" followed the VJ" = ""
+" is blocked" = ""
+"liked this " = ""
+"sent a " = "ส่ง";//
+"The name should be less than 30 characters" = "O nome deve ter menos de 30 caracteres"
+"Sign In" = "Assinar em"
+"The number and password you entered don't match." = "O número e a senha que você digitou não correspondem."
+"Blocked Accounts" = "As contas bloquedas"
+"Feedback" = "Comentário"
+//"Enable access to your camera to start broadcast." = "เปิดใช้งานกล้องเพื่อเริ่มการออนแอร์";
+"To broadcast live video, Kitty Live needs permission to access the camera on your device." = "Para transmitir vídeo ao vivo, Kitty Live precisa de permissão de acessar a câmera no seu dispositivo."
+"Enable" = "Habilitar"
+//"Enable access to your microphone to start broadcast." = "เปิดใช้งานไมโครโฟนเพื่อเริ่มการออนแอร์";
+"To broadcast live video, Kitty Live needs permission to access the microphone on your device." = "Para transmitir vídeo ao vivo, Kitty Live precisa de permissão para acessar o microfone no seu dispositivo."
+"Likes" = "Gostas"
+"Tap next to get an SMS confirmation" = "Toque seguido para obter uma confirmação de SMS"
+"Select Country" = "Selecione o país"
+"Login failed. Please try again later." = "Falha no login. Por favor, tente novamente mais tarde."
+"Say something..." = "Diga alguma coisa ..."
+
+//礼物界面
+"Buy More" = "Compre mais"
+"SEND" = "Enviar"
+"Insufficient rubies. Please buy more." = "Rubis são insuficientes. Por favor, compre mais."
+"Gift not ready. Please try later." = "O presente não está pronto. Por favor tente mais tarde."
+"Kitty Assistant" = "Kitty Assistente"
+//升级
+"A new version of Kitty Live is available. Please update it." = "A nova versão do Kitty Live está disponível. Atualize-o."
+"Update" = "Atualizar"
+//协议页面
+"Agree and Continue" = "Concordar e Continuar"
+//pay
+"In-app purchase forbidden" = "proibir a compra na aplicação "
+"Purchase failed" = "Falha na compra"
+//"Purchase canceled" = "การสั่งซื้อถูกยกเลิก";
+"Payment successful" = "pagamento efetuado com sucesso"
+"Product not found" = "Produto não encontrado"
+"DONE" = "FEITO"
+"This will costs you " = ""
+" moon. Sure to exchange?" = ""
+"Insufficient moon. You don't have enough moon to buy this." = ""
+//"Buy Rubies" = "ซื้อ Rubies";
+//"Exchange Rubies" = "แลกเปลี่ยน Rubies";
+"Exchange" = "troca"
+"Notification" = "Notificação"
+"Live Notification" = "Notificação de transmissão"
+"Total" = "Total"
+"Balance" = "equilíbrio"
+"100% First Recharge Bonus" = "100%  Primeiro bonificação recarrega"
+"This is only for the first time recharge." = "Este é só para a primeira vez de recarga."
+"Bonus" = "bonificação"
+
+//"If you have any questions please contact us:" = "ถ้าหากมีปัญหาอะไรกรุณาติดต่อเรา:";
+"If you have any questions please \n   contact us:" = ""
+" service@kitty.live" = ""
+//通知页面
+//"Nofification" = "";
+//"Do not disturb" = "ห้ามรบกวน";
+//"Followed User Goes Live" = "";
+//查看大图
+"Save" = "Conservar"
+"Cancel" = "cancelar"
+"Saved" = "salvou"
+"Save failed" = "falhou ao salvar"
+"Kitty Live Top Up" = ""
+"Kitty Live Exchange" = ""
+//Sticker
+"Done" = "Feito"
+"Discard changes and quit?" = "descartar as alterações e sair?"
+"You can only add one sticker." = "Você pode adicionar só um rótulo."
+
+// 修改密码
+"Change Password" = "Mudar a senha"
+" Old password" = "Antiga senha "
+" New password" = "Nova senha"
+" Confirm" = "Confirmar"
+"Forgot Password?" = "Esqueceu a senha?"
+"Passwords do not match." = ""
+"Incorrect old password." = ""
+"Forgot Password" = "Esqueceu a senha"
+"CONTINUE" = "CONTINUAR"
+"We’ll send you a code to confirm this account is yours." = "Enviaremos um código para confirmar que esta é a  sua conta."
+"Password change failed." = ""
+" Enter your new password" = "Digite a sua nova senha"
+
+//推荐关注
+"Recommended VJ" = "VJ recomendado "
+"Amazing content will notify you at the first time" = "O conteúdo incrível irá notificá-lo na primeira vez"
+"Done" = "Feito"
+//任务
+"   Basic Task" = "Tarefa básica"
+//"Upload Profile Picture" = "อัพโหลดรูปโปรไฟล์";
+//"Binding with E-mail" = "เชื่อมต่อ E-mail";
+//"Binding with Phone" = "เชื่อมต่อมือถือ";
+//"Complete in register" = "ลงทะเบียนเสร็จเรียบร้อย";
+"Collected" = ""
+"Congratulations, receive successfully！" = ""
+"Completed in basic task can get 10 Rubies." = ""
+"   Daily Task" = "Tarefa diária"
+"Receive 10 Rubies" = "Receba 10 Rubis"
+//任务引导
+"Millions of Rubies for free" = "Milhões de Rubis grátis"
+"Complete the task, then you can get 10 Rubies. You can participate in the Page Me - Task" = ""
+"Get it now" = "Obtê-lo agora"
+"Get " = ""
+
+// 他人页
+"Replays" = "repetições"
+"Unknown" = "Desconhecido"
+//"Untitled" = "ไม่ได้ตั้งชื่อ";
+"Delete" = "Excluir "
+"Edit" = "Editar"
+"Select All" = "Selecionar tudo"
+"Sure to delete?" = "Certifique-se de excluir?"
+"Replay deleted successfully" = "Repetição excluída com sucesso"
+"Failed to delete" = "Falha ao excluir"
+
+"Binding Failed" = "Falha na ligação"
+"Autosave Replays" = "salvamento automático repetições"
+"Replays less than 5 mins will not be saved" = "As repetições com menos de 5 minutos não serão salvas"
+"Failed to play" = ""
+
+"Remark: Completing in the same task can only receive prize 1 time." = ""
+"Binding Failed" = "Falha na ligação"
+"Get the extra " = ""
+"Task" = "Tarefa"
+//变脸
+"Open your mouth" = "Abra a sua boca"
+"Blink your eyes" = "Pisque seus olhos"
+"No Replays" = "Nenhum repetições"
+"Let's do aegyo 1,2,3!" = "Vamos fazer aegyo 1,2,3!"
+"Blink or open mouth" = "Piscar ou abrir a boca"
+//直播间引导
+"Swipe left or right to change room" = "Deslize para a esquerda ou direita para mudar de quarto"
+"Follow vj then you just subscribe the vj's live streaming directly!" = ""
+"Share to enhance the EXP, upgrade much more fast!" = "Compartilhar para melhorar a EXP, atualizar muito mais rápido!"
+"Send gifts to help upgrade fastest!" = "Envie presentes para ajudar a atualizar mais rápido!"
+"Share the best moments of your livestreaming." = "Compartilhe os melhores momentos de sua transmissão ao vivo."
+
+"Trending TAGS" = "TAGS Tendências"
+"More" = ""
+"Following VJ" = "VJ Seguindo "
+"Latest Streams" = "Últimas Streams"
+"Countries" = "Países"
+"You are not permitted to broadcast since you have been blocked by the administrator." = "Você não tem permissão para transmitir porque você foi bloqueado pelo administrador."
+//分享
+"Share with friends" = "Compartilhe com amigos"
+"Successfully shared" = "Compartilhou com sucesso"
+"Failed to share" = "Falha ao compartilhar"
+"I'm #OnAir, so come and watch me LIVE on #KittyLive!" = ""
+
+"Delete Replay" = "Excluir Repetição"
+
+"About Us" = ""
+"Rate us on Appstore" = ""
+
+" new messages" = ""
+"VJ will be back soon" = ""
+"VJ is back,live is ready to start" = ""
+"Please rate us five stars" = ""
+"5 Rtar Rating" = ""
+"Complain" = ""
+"Next time" = ""
+"preview" = ""
+"Not good internet connection" = ""
+"You are connecting Non-WiFi Internet" = ""
+"Saved to album" = ""
+"Failed to album" = ""
+
+//明星版提示 只对泰、英文国际化
+"The customized skin of Mai Davika is coming! Let's play together with hot idol ~" = ""
+"Use old theme" = ""
+"Try new theme" = ""
+"I'm broadcasting. Join me!" = ""
+"JOIN" = ""
+"Get Started" = ""
+
+"Check" = ""
+"Congratulations to %1$s reaching Lv.%2$d!" = ""
+
+//1.8.3
+"This feature requires user level 15 or user verificated." = ""
+"Follow me pls, you will never miss my live." = ""
+"Click and show your self." = ""
+"Follow me pls, you will never miss my live." = ""
+"Great live right? Why not share to your friends?" = ""
+"Appreciate your gifts, I'm feeling full powerful now." = ""
+"Try to take picture of me.[Shy]" = ""
+"A great live starts from a high definiation photo as avatar. Upload now!" = ""
+"Cool, Pretty, Awesome are all in Kitty Face." = ""
+"Clicking! You can find your picture in Photos" = ""
+"I'm live, let all your friends know. Share!" = ""

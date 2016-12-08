@@ -1,0 +1,347 @@
+//登陆页面
+"More Option" = "ตัวเลือกอื่น";
+"Log in with Twitter" = "สมัครใช้งานด้วย Twitter";
+"Log in with Facebook" = "สมัครใช้งานด้วย Facebook";
+"By continuing you agree to the" = "คุณเห็นด้วย";
+"and" = "และ";
+"Terms of Service" = "เงื่อนไขการให้บริการ";
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+"Authorization failed" = "การอนุมัติล้มเหลว";
+"Log In With Phone" = "เข้าสู่ระบบ ด้วยเบอร์โทรศัพท์";
+"Sign Up With Phone" = "สมัครใช้งาน ด้วยเบอร์โทรศัพท์";
+"Cancel" = "ยกเลิก";
+"Log in with Instagram" = "สมัครใช้งานด้วย Instagram";
+//手机登陆界面
+//"LOG IN" = "เข้าสู่ระบบ";
+"Log In" = "เข้าสู่ระบบ";
+"Sign Up" = "สมัครใช้งาน";
+" Phone Number"=" เบอร์โทรศัพท์";
+" Password" = " รหัสผ่าน";
+"Tap next to get an SMS comfirmation" = "กดถัดไปเพื่อรับข้อความยืนยัน";
+"NEXT" = "ถัดไป";
+"The password should be 6 to 22 characters." = "รหัสผ่านควรจะเป็นตัวอักษรอย่างน้อย 6 – 22 ตัว.";//
+"Invalid phone number." = "รูปแบบหมายเลขโทรศัพท์ผิด.";
+"Failed to send SMS. Please try again later." = "การส่งข้อความล้มเหลว ลองใหม่อีกครั้ง.";
+"Sending SMS too much times. Please wait one minute." = "คุณได้ส่งข้อความถี่เกินไป กรุณารอสักครู่.";
+"Account not exists" = "ไม่มีบัญชีนี้";
+"This number has already registered." = "หมายเลขนี้ได้ใช้ลงทะเบียนไปแล้ว.";//
+"This number has already been registered. Please login in." = "หมายเลขนี้ได้ใช้ลงทะเบียนไปแล้ว.กรุณาเข้าสู่ระบบ";
+"Network timeout" = "ล็อกอินหมดเวลา.";
+"Refresh" = "รีเฟรช";
+"Account not exists." = "ไม่มีบัญชีนี้.";
+"Login failed. Your account has been disabled." = "การเข้าสู่ระบบล้มเหลว บัญชีของคุณถูกระงับการใช้งาน.";
+//手机短信界面
+"Enter your code" = "ใส่รหัส";
+"Send New Code" = "ส่งรหัสใหม่";
+//"Incorrect code" = "ส่งรหัสใหม่";
+"Incorrect verification code" = "รหัสไม่ถูกต้อง";
+//手机登陆名字
+" Name" = " ชื่อ";
+//主界面
+//"Hot" = "ฮิต";
+//"New" = "ใหม่!";
+"No connection. Please check your network." = "ไม่มีการเชื่อมต่ออินเตอร์เน็ต โปรดตรวจสอบอีกครั้ง.";
+//个人用户页
+"Following" = "กำลังติดตาม";
+"Followers" = "ติดตาม";
+"Level" = "เลเวล";
+"Settings" = "ตั้งค่า";
+"Contributions" = "การมีส่วนร่วม";
+"Contributed" = "ร่วม";
+//等级页
+"My Exp" = "Exp ของฉัน";
+"Exp to next level" = "Exp สำหรับเลเวลต่อไป";
+//"1. Log in everyday.\n2. Participate or interact in broadcast.\n3. Send virtual gifts to the VJ, the more you send, the faster your level rises." = "1. ทำการเข้าสู่ระบบของคุณในทุกๆ วัน\n2. มีส่วนร่วมหรือแชทโต้ตอบในการออนไลน์ \n3. ส่งของขวัญในขณะที่มีการออนไลน์ ยิ่งส่งมากระดับlevelยิ่งสูง";
+"How to raise your level" = "จะอัพเกรดระดับLEVELของคุณได้อย่างไร";//
+//"1. User Level is the sign of Kitty Live user loyalty.\n2. Higher level stands for higher status, and has more benefits." = "1. เลเวลของยูสเซอร์จะแสดงถึงความเป็นแฟนพันธ์แท้ Kitty Live \n2. Levelยิ่งสูงยิ่งได้รับสิทธิ์พิเศษต่างๆมากมาย";
+"Effective in counting : online 3 hours / day, watching 30 times / day, share 5 times / day, interactive 10 times / day, sending gift in unlimited number" = "การนับจำนวน : ออนไลน์ 3 ชั่วโมง / วัน, ดูออนไลน์ 30 ครั้ง / วัน, แชร์ 5 ครั้ง / วัน, โต้ตอบ 10 ครั้ง / วัน, ของขวัญแบบไม่จำกัด";
+"Exclusive Icon" = "ไอเทมพิเศษ";
+"Top Ranking" = "ระดับ Top Users";
+"Special Efficacy" = "ผลตอบรับที่ดีเยี่ยม";
+"Online" = "ออนไลน์";
+"Watching" = "ดูออนไลน์";
+"Send Gifts" = "ส่งของขวัญ";
+"Share" = "แชร์";
+"Interactive" = "โต้ตอบ";
+"My Rewards" = "ของรางวัลของฉัน";
+"times" = "ครั้ง";
+//拉黑页
+"No blocked accounts" = "ไม่มีการบล็อคแอคเค้าน์";
+"No followings" = "ไม่มีการติดตาม";
+"No followers" = "ไม่มีผู้ติดตาม";
+"No broadcasts" =  "ไม่มีการออนไลน์";
+//设置页
+"Feedback" = "ผลตอบรับ ";
+"Kitty Live Feedback" = "ผลตอบรับ Kitty Live";
+"Terms of Service" = "เงื่อนไขการให้บริการ";
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+"Version" = "เวอร์ชั่น";
+"Log Out" = "ออกจากระบบ";
+"No moon" = "ไม่มี moon";
+//搜索页
+" Search" = " ค้นหา";
+"No results" = "ไม่มีข้อมูล";
+"Block" = "บล็อค";
+"Follow" = "ติดตาม";
+"Unblock" = "ปลดบล็อค";
+" Name, ID" = " ชื่อ, ID";
+//直播预开始页
+"Preparing..." = "กำลังดำเนินการ";
+"Start Broadcast" = "เริ่มออนไลน์";
+"Turn on Location Services" = "เปิด GPS เพือระบุตำแหน่ง";
+"【Settings】→【Privacy】→【Location Services】→【While Using the App】" = "【ตั้งค่า】→【ส่วนตัว】→【ระบุตำแหน่ง】→【ในขณะใช้แอพ】";
+"Turn On" = "เปิด‘";
+"Broadcast failed. Please try again later." = "ออนแอร์ล้มเหลว กรุณาลงใหม่ทีหลังนะคะ";
+"You are not permitted to broadcast since you have been blocked by the administrator." = "คุณถูกบล็อคโดยแอดมิน จึงไม่สามารถทำการออนไลน์ได้";
+//直播页
+"What are you doing now?" = "คุณต้องการทำอะไร?";
+"No connection. Please check your network." = "ไม่มีการเชื่อมต่ออินเตอร์เน็ต โปรดตรวจสอบอีกครั้ง";
+"Sent " = "ส่ง ";
+"OK" = "OK";
+"Stop broadcast?" = "ต้องการหยุดการออนไลน์?";
+//"Are you sure to exit?" = "คุณแน่ใจที่จะออกจากระบบ?";
+"The VJ left temporarily." = "หยุดการออนไลน์";
+"The VJ is back." = "ทำการออนไลน์";
+" and got " = " คุณจะได้รับ ";
+"Each bullet msg will costs 5 rubies" = "จ่าย 5 Rubies สำหรับการตะโกนกลางห้อง";
+" shared the broadcast on " = " ได้แชร์การออนไลน์บน ";
+//直播间
+"LIVE END" = "จบการออนไลน์";
+"Back" = "กลับ";
+"Home" = "Home";
+"Report this account?" = "ต้องการรายงานบัญชีนี้ ?";
+"Reported" = "รายงานเรียบร้อยแล้ว";
+"Report failed" = "การรายงานล้มเหลว";
+"Block this account?" = "คุณต้องการบล็อคบัญชีนี้ ?";
+"Blocked" = "บล็อคเรียบร้อยแล้ว";
+"Block Failed" = "การบล็อคล้มเหลว";
+"Likes" = "ชอบ";
+"Viewers" = "ผู้ชม";
+"Lasted "= "ระยะเวลา ";
+"Your broadcast has been stopped by administrator." = "การออนแอร์ของคุณถูกระงับชั่วคราวโดยแอดมิน.";
+"Broadcast stopped by Kitty Live Administrator" = "การออนแอร์ถูกบล๊อคจากแอดมิน";
+"Don’t cross the line" = "อย่าทำพฤติกรรมที่ไม่เหมาะสมดังต่อไปนี้";
+"Nudity or sexual content" = "เรื่องเพศและภาพเปลือย";
+"Violent or graphic content" = "เนื้อหาที่เป็นอันตราย";
+"Harmful or dangerous content" = "เนื้อหาที่มีความรุนแรง";
+"Other hateful content" = "เนื้อหาที่ไม่เหมาะสมอื่นๆ";
+"Awesome #livestream on " = "มาแอนแอร์ที่";
+"Awesome #Replay on " = "สุด ๆ ไปเลย #เล่นซ้ำบน ";
+"Open your eyes and see " = "เปิดตาและดูวีเจ";
+"Awesome #Replay on %1$s #KittyLive %2$s!#OpenYourEyes and see %3$s." = "สุด ๆ ไปเลย #เล่นซ้ำบน %1$s #KittyLive %2$s!#เปิดโลกใหม่ %3$s.";
+"I'm livestreaming on #KittyLive, share the best moments, invite you to participate!" = "ฉันกำลังออนไลน์บน #KittyLive แชร์เวลาสวยงาม ขอเชิญมาร่วมกัน!";
+"Wow! Thank you! Love your gifts." = "ได้รับของขวัญแล้ว เย";
+"Manually saving screenshots to albums failed" = "บันทึกภาพหน้าจอที่อัลบั้มท้องถิ่นล้มเหลว";
+"Kitty Live haven't permission to access albums yet, the screenshot can't be saved to your local album automatically, don't forget to open the system permissions in settings!" = "คุณยังไม่ได้เปิดสิทธิ์เข้าถึงอัลบั้มให้ Kitty Live บันทึกภาพหน้าจอที่อัลบั้มท้องถิ่นโดยอัตโนมัติล้มเหลว อย่าลืมเปิดให้อนุญาตในการเข้าถึงระบบในการตั้งค่านะ!";
+"Screenshots have been saved to album successfully" = "ภาพหน้าจอบันทึกไว้ในอัลบั้มแล้ว";
+"VJ will be back soon" = "วีเจลาหยุดชั่วคราว จะรีบกลับมา";
+"VJ is back,live is ready to start" = "วีเจกลับมาแล้ว ออนต่อๆ";
+"Great! Never missed live again, there is replay here." = "เรากำลังดูคลิปนี้ใน Kitty Live อยู่เลย น่าแช";//新增回播分享
+"I followed and am waiting for next great live." = "ว้าจบซะและ เดี๋ยวขอเข้าไปติดตามแป๊บ ครั้งหน้าจะได้ไม่พล";//新增直播页结束分享
+//个人编辑页
+"Profile" = "โปรไฟล์";
+"Avatar" = "รูปถ่าย";
+"Name" = "ชื่อ";
+"Gender" = "เพศ";
+"Description" = "ลักษณะ";
+"Choose a photo" = "เลือกรูป";
+"Take a photo" = "ถ่ายรูป";
+"Save" = "บันทึก";
+"Male" = "ชาย";
+"Female" = "หญิง";
+"Please enter the correct Email" = "กรุณากรอกอีเมล์ที่ถูกต้อง";//
+//聊天信息框
+" joined" = " เข้าร่วม";
+"NOTICE: " = "ข้อสังเกต: ";
+" followed the VJ" = " ติดตามการออนไลน์";
+" is blocked" = " ถูกบล็อค";
+"liked this " = "โดนใจ ";
+ "sent a " = "ส่ง";//
+"The name should be less than 30 characters" = "จำนวนตัวอักษรควรมีความยาวน้อยกว่า 30 ตัว";
+"Sign In" = "ลงชื่อเข้าใช้";
+"The number and password you entered don't match." = "ชื่อผู้ใช้งานและรหัสผ่านผิดพลาด.";//
+"Blocked Accounts" = "บัญชีถูกบล็อค";
+"Feedback" = "ผลตอบรับ";
+//"Enable access to your camera to start broadcast." = "เปิดใช้งานกล้องเพื่อเริ่มการออนแอร์";
+"To broadcast live video, Kitty Live needs permission to access the camera on your device." = "ถ้าอยากออนแอร์ Kitty Live ต้องได้รับอนุญาตในการเข้าถึงกล้อง";//相机
+"Enable" = "เปิดใช้งาน";
+//"Enable access to your microphone to start broadcast." = "เปิดใช้งานไมโครโฟนเพื่อเริ่มการออนแอร์";
+"To broadcast live video, Kitty Live needs permission to access the microphone on your device." = "ถ้าอยากออนแอร์ Kitty Live ต้องได้รับอนุญาตในการเข้าถึงไมโครโฟน";//麦克风
+"Likes" = "ที่ชื่นชอบ";
+"Tap next to get an SMS confirmation" = "คลิกถัดไปเพื่อรับข้อความ";
+"Select Country" = "เลือกประเทศ";
+"Login failed. Please try again later." = "เข้าสู่ระบบล้มเหลว กรุณาลองใหม่อีกครั้ง.";
+"Say something..." = "ลองพูดบางอย่างสิ...";
+
+//礼物界面
+"Buy More" = "ซื้อเพิ่ม";
+"SEND" = "ส่ง";//
+"Insufficient rubies. Please buy more." = "Rubies ไม่พอ กรุณาซื้อเพิ่ม";
+"Gift not ready. Please try later." = "ของขวัญยังไม่พร้อมกรุณาลองใหม่ภายหลัง";
+"Kitty Assistant" = "ผู้ช่วย Kitty";
+//升级
+"A new version of Kitty Live is available. Please update it." = "Kitty Live เว่อร์ชั่นใหม่อัพเดทเรียบร้อยแล้ว โหลดเลย!";
+"Update" = "อัพเดท";//
+//协议页面
+"Agree and Continue"="เข้าใจและตกลง";
+//pay
+"In-app purchase forbidden" = "ไม่สามารถสั่งซื้อในแอฟได้";
+"Purchase failed" = "การสั่งซื้อล้มเหลว";
+//"Purchase canceled" = "การสั่งซื้อถูกยกเลิก";
+"Payment successful" = "การสั่งซื้อสำเร็จ";
+"Product not found" = "ไม่พบสินค้า";
+"DONE" = "เรียบร้อย";
+"This will costs you " = "คุณจะต้องจ่าย";//修改
+" moon. Sure to exchange?" = " moon คุณต้องการแลกเปลี่ยนหรือไม่ ?";
+"Insufficient moon. You don't have enough moon to buy this." = "Moon ไม่เพียงพอ คุณมี moon ไม่เพียงพอที่จะทำการซื้อ";
+//"Buy Rubies" = "ซื้อ Rubies";
+//"Exchange Rubies" = "แลกเปลี่ยน Rubies";
+"Exchange" = "แลกเปลี่ยน";
+"Notification" = "แจ้งเตือน";
+"Live Notification" = "การแจ้งเตือนออนแอร์";
+"Total" = "ทั้งหมด";
+"Balance" = "ยอดเงิน";
+"100% First Recharge Bonus" = "โบนัส100%สำหรับเติมเงินครั้งแรก";
+"This is only for the first time recharge." = "สำหรับเติมเงินครั้งแรก";
+"Bonus" = "โบนัส";//
+
+//"If you have any questions please contact us:" = "ถ้าหากมีปัญหาอะไรกรุณาติดต่อเรา:";
+"If you have any questions please \n   contact us:" = "ถ้าหากมีปัญหาอะไรกรุณาติดต่อเรา:\n";
+" service@kitty.live" = " \t  service@kitty.live";
+//通知页面
+//"Nofification" = "";
+//"Do not disturb" = "ห้ามรบกวน";
+//"Followed User Goes Live" = "";
+//查看大图
+"Save" = "บันทึก";
+"Cancel" = "ยกเลิก";
+"Saved" = "บันทึกสำเร็จ";
+"Save failed" = "บันทึกล้มเหลว";
+"Kitty Live Top Up"="Kitty Live เติมเงิน";
+"Kitty Live Exchange"="Kitty Live แลกเปลี่ยน";
+//Sticker
+"Done" = "เสร็จสิ้น";
+"Discard changes and quit?" = "ยกเลิกการเปลี่ยนแปลงและออก";
+"You can only add one sticker." = "คุณสามารถเพิ่ม 1 สติกเกอร์เท่านั้น";
+
+// 修改密码
+"Change Password" = "เปลี่ยนรหัสผ่าน";
+" Old password" = " รหัสผ่านเก่า";
+" New password" = " รหัสผ่านใหม่";
+" Confirm" = " ยืนยันรหัสผ่านใหม่";
+"Forgot Password?" = "ลืมรหัสผ่าน?";
+"Passwords do not match." = "รหัสผ่านไม่ตรงกัน.";
+"Incorrect old password." = "รหัสเก่าไม่ถูกต้อง.";
+"Forgot Password" = "ลืมรหัสผ่าน";
+"CONTINUE"="ดำเนินการต่อ";
+"We’ll send you a code to confirm this account is yours." = "เราจะทำการส่งรหัสให้คุณ เพื่อทำการยืนยันตัวตน.";
+"Password change failed." = "เปลี่ยนรหัสผ่านล้มเหลว";
+" Enter your new password" = "รหัสผ่านใหม่";
+
+//推荐关注
+"Recommended VJ" = "วีเจแนะนำ";
+"Amazing content will notify you at the first time" = "จะมีข้อความแจ้งเตือนคุณก่อนทุกครั้ง";
+"Done" = "เสร็จสิ้น";
+//任务
+"   Basic Task" = "   ภารกิจพื้นฐาน";
+//"Upload Profile Picture" = "อัพโหลดรูปโปรไฟล์";
+//"Binding with E-mail" = "เชื่อมต่อ E-mail";
+//"Binding with Phone" = "เชื่อมต่อมือถือ";
+//"Complete in register" = "ลงทะเบียนเสร็จเรียบร้อย";
+"Collected" = "เก็บสะสม";
+"Congratulations, receive successfully！" = "ยินดีด้วยค่ะ, คุณทำสำเร็จแล้ว!";
+"Completed in basic task can get 10 Rubies." = "พิชิตภารกิจพื้นฐานได้สำเร็จ คุณจะได้รับ 10 Rubies.";
+"   Daily Task" = "   ภารกิจประจำวัน";
+"Receive 10 Rubies" = "Receive 10 Rubies";
+//任务引导
+"Millions of Rubies for free" = "ว้าวRubiesเป็นล้านส่งฟรี";
+"Complete the task, then you can get 10 Rubies. You can participate in the Page Me - Task" = "ถ้าหากภารกิจทำเสร็จแล้วก็สามารถได้รับ10Rubiesฟรี, สามารถเข้าร่วมกิจกรรมนี้ในMe - Task";
+"Get it now" = "รับทันที";
+"Get " = "ได้รับ ";
+
+// 他人页
+"Replays" = "การเล่นใหม่";
+"Unknown" = "ไม่รู้จัก";
+//"Untitled" = "ไม่ได้ตั้งชื่อ";
+"Delete" = "ลบ";
+"Edit" = "Edit";
+"Select All" = "เลือกทั้งหมด";
+"Sure to delete?" = "คุณต้องการลบใช่หรือไม่";
+"Replay deleted successfully" = "การเล่นใหม่ลบเรียบร้อยแล้ว";
+"Failed to delete" = "ลบล้มเหลว";
+
+"Binding Failed" = "การเชื่อมต่อล้มเหลว";
+"Autosave Replays" = "บันทึกการเล่นใหม่อัตโนมัติ";
+"Replays less than 5 mins will not be saved" = "การเล่นใหม่ที่น้อยกว่า 5 นาทีจะไม่บันทึก";
+"Failed to play" = "เล่นล้มเหลว";
+
+"Remark: Completing in the same task can only receive prize 1 time." = "หากคุณทำภารกิจแต่ละข้อเสร็จหมดทุกอย่าง ถึงจะได้รับรางวัล 1 ครั้ง.";
+"Binding Failed" = "การเชื่อมต่อล้มเหลว";
+"Get the extra " = "ได้รับเพิ่ม ";
+"Task" = "ภารกิจ";
+//变脸
+"Open your mouth" = "กรุณาอ้าปาก";
+"Blink your eyes" = "กรุณากระพริบตา";
+"No Replays" = "ไม่เล่นใหม่";
+"Let's do aegyo 1,2,3!" = "แอ๊บแบ๊ว ทุกที่ทุกเวลา";
+"Blink or open mouth" = "ขยิบตาหรือเปิดปาก";
+//直播间引导
+"Swipe left or right to change room" = "เลื่อนซ้ายหรือขวาก็ได้เปลี่ยนห้องออนแอร์";//
+"Follow vj then you just subscribe the vj's live streaming directly!" = "ติดตามวีเจจะไม่พลาดการออนแอร์ของวีเจที่ชอบนะ";
+"Share to enhance the EXP, upgrade much more fast!" = "แชร์จะได้เพิ่มEXPนะ อัพเกรดเร็วขึ้น";
+"Send gifts to help upgrade fastest!" = "ส่งของขวัญจะช่วยอัพเกรดเร็วที่สุด";
+"Share the best moments of your livestreaming." = "แชร์ช่วงเวลาที่สวยงามสำหรับการออนแอร์ของคุณ";
+
+"Trending TAGS" = "TAGS เก๋ ๆ";//修改
+"More" = "เพิ่มเติม";
+"Following VJ" = "VJ ที่กำลังติดตาม";//
+"Latest Streams" = "ออนแอร์ครั้งล่าสุด";
+"Countries" = "ประเทศ";
+"You are not permitted to broadcast since you have been blocked by the administrator." = "คุณถูกบล็อคโดยแอดมิน จึงไม่สามารถทำการออนไลน์ได้";
+//分享
+"Share with friends" = "แชร์ให้เพื่อน";
+"Successfully shared" = "การแชร์สำเร็จ";
+"Failed to share" = "แชร์ล้มเหลว";
+"I'm #OnAir, so come and watch me LIVE on #KittyLive!" = "ฉัน #ออนไลน์, มาเลยดูฉันออนแอร์ #KittyLive";
+
+"Delete Replay" = "ลบการเล่นใหม่";
+
+"About Us" = "เกี่ยวกับ Kitty Live";
+"Rate us on Appstore" = "ให้คะแนนเราที่ Appstore";
+
+" new messages" = " ข้อความใหม่x ข้อ";
+"VJ will be back soon" = "วีเจลาหยุดชั่วคราว จะรีบกลับมา";
+"VJ is back,live is ready to start" = "วีเจกลับมาแล้ว ออนต่อๆ";
+"Please rate us five stars" = "ถ้าชอบอย่าลืมให้ 5 คะแนนนะคะ";
+"5 Rtar Rating" = "ให้คะแนน๕ดาว";
+"Complain" = "ฉันอยากบ่น";
+"Next time" = "ดูออนแอร์ต่อ";
+"preview" = "ตัวอย่าง";
+"Not good internet connection" = "สภาพเครือข่ายไม่ดี";
+"You are connecting Non-WiFi Internet" = "เครือข่ายคุณกำลังใช้อยู่ไม่ใช่เครือข่ายWIFIนะ";
+"Saved to album" = "บันทึกไปที่อัลบั้มเรียบร้อย";
+"Failed to album" = "บันทึกไปที่อัลบั้มล้มเหลว";
+
+//明星版提示 只对泰、英文国际化
+"The customized skin of Mai Davika is coming! Let's play together with hot idol ~" = "ธีมใหม่ ดาวิกา มาแล้วนะ สนุกสนานกับธีมใหม่ ดาวิกาได้แล้ววันนี้";
+"Use old theme" = "ใช้ธีมเก่า";
+"Try new theme" = "ใช้ธีมใหม่";
+"I'm broadcasting. Join me!" = "ฉันกำลังออนแอร์อยู่มาร่วมกับฉันสิ";
+"JOIN" = "เข้าร่วม";
+"Get Started" = "เริ่มต้น";
+
+"Check" = "ตรวจสอบ";
+"Congratulations to %1$s reaching Lv.%2$d!" = "ขอแสดงความยินดีกับ %1$s ตอนนี้คุณอยู่ระดับ Level ที่ %2$d แล้วจ้าาา!";
+
+//1.8.3
+"This feature requires user level 15 or user verificated." = "ฟังก์ชั่นนี้ใช้งานได้กับผู้ใช้ที่มีเลเวล 15 ขึ้นไปหรือผู้ใช้งานที่เวอริฟายแล้วเท่านั้น";
+"Follow me pls, you will never miss my live." = "คุณจะไม่พลาดทุกความเคลื่อนไหวของคนที่คุณชื่นชอบ กดติดตามได้เลย";
+"Click and show your self." = "คลิกเพื่อแ";
+"Follow me pls, you will never miss my live." = "คุณจะไม่พลาดทุกความเคลื่อนไหวของคนที่คุณชื่นชอบ กดติดตามได้เลย";
+"Great live right? Why not share to your friends?" = "อยากให้คนเข้ามาดูคุณเยอะๆ ใช่ไหม คลิกแชร์ให้เพื่อนๆ ดูได้เลย";
+"Appreciate your gifts, I'm feeling full powerful now." = "ขอบคุณสำหรับของขวัญสุดพิเศษนะ";
+"Try to take picture of me.[Shy]" = "เก็บภาพความทรงจำของเราไว้ได้นะ";
+"A great live starts from a high definiation photo as avatar. Upload now!" = "A great live starts from a high definiation photo as avatar. Upload now!";
+"Cool, Pretty, Awesome are all in Kitty Face." = "เปลี่ยนการไลฟ์ที่หน้าเบื่อของคุณไปกับเทรนใหม่ Kitty Face";
+"Clicking! You can find your picture in Photos" = "คลิกเพื่อเก็บภาพเหล่านี้ไปยังอัลบัมของคุณกันเลย";
+"I'm live, let all your friends know. Share!" = "แชร์บอกให้โลกรู้ว่าคุณกำลังทำอะไรอยู่";

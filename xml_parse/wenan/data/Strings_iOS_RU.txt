@@ -1,0 +1,347 @@
+//登陆页面
+"More Option" = "Больше выборов"
+"Log in with Twitter" = "Войти с Twitter"
+"Log in with Facebook" = "Войти с Facebook"
+"By continuing you agree to the" = ""
+"and" = ""
+"Terms of Service" = "Солашения о сервисе"
+"Privacy Policy" = "Конфиденциальность"
+"Authorization failed" = "Авторизация не удалась"
+"Log In With Phone" = ""
+"Sign Up With Phone" = "Зарегистрировать с телефоном"
+"Cancel" = "Отменить"
+"Log in with Instagram" = "Войти с Instagram"
+//手机登陆界面
+//"LOG IN" = "เข้าสู่ระบบ";
+"Log In" = "Вход"
+"Sign Up" = "Зарегистрировать"
+" Phone Number" = "Номер телефона"
+" Password" = "Пароль"
+"Tap next to get an SMS comfirmation" = ""
+"NEXT" = "ДАЛЬШЕ"
+"The password should be 6 to 22 characters." = ""
+"Invalid phone number." = ""
+"Failed to send SMS. Please try again later." = "Не удалось отправить СМС. Попробуйте ещё раз позднее."
+"Sending SMS too much times. Please wait one minute." = "Слишком много раз отправить СМС, подождите минуту."
+"Account not exists" = "Аккаунт не существует"
+"This number has already registered." = ""
+"This number has already been registered. Please login in." = "Данный номер уже зарегистрирован.Войдите пожалуйста."
+"Network timeout" = "Сеть просрочена"
+"Refresh" = "Обновлять"
+"Account not exists." = ""
+"Login failed. Your account has been disabled." = "Войти не удалось, ваш аккаунт закрывают."
+//手机短信界面
+"Enter your code" = "Введите ваш код"
+"Send New Code" = "Отправить новый код"
+//"Incorrect code" = "ส่งรหัสใหม่";
+"Incorrect verification code" = "Неправильный код подтверждения."
+//手机登陆名字
+" Name" = "Имя "
+//主界面
+//"Hot" = "ฮิต";
+//"New" = "ใหม่!";
+"No connection. Please check your network." = "Связь пропала. Проверьте сеть пожалуйста."
+//个人用户页
+"Following" = "Подписали к"
+"Followers" = "Подписчики"
+"Level" = "Степень"
+"Settings" = "Настройки"
+"Contributions" = "Вклады"
+"Contributed" = "Внес вклад"
+//等级页
+"My Exp" = "Мой опыт"
+"Exp to next level" = "Опыт до следующей степени"
+//"1. Log in everyday.\n2. Participate or interact in broadcast.\n3. Send virtual gifts to the VJ, the more you send, the faster your level rises." = "1. ทำการเข้าสู่ระบบของคุณในทุกๆ วัน\n2. มีส่วนร่วมหรือแชทโต้ตอบในการออนไลน์ \n3. ส่งของขวัญในขณะที่มีการออนไลน์ ยิ่งส่งมากระดับlevelยิ่งสูง";
+"How to raise your level" = "Как повышать вашу степень?"
+//"1. User Level is the sign of Kitty Live user loyalty.\n2. Higher level stands for higher status, and has more benefits." = "1. เลเวลของยูสเซอร์จะแสดงถึงความเป็นแฟนพันธ์แท้ Kitty Live \n2. Levelยิ่งสูงยิ่งได้รับสิทธิ์พิเศษต่างๆมากมาย";
+"Effective in counting : online 3 hours / day, watching 30 times / day, share 5 times / day, interactive 10 times / day, sending gift in unlimited number" = ""
+"Exclusive Icon" = "Исключительный орден"
+"Top Ranking" = "Топ рейтинг"
+"Special Efficacy" = "Специальные Эффективность"
+"Online" = "Онлайн"
+"Watching" = "Смотреть"
+"Send Gifts" = "Отправить подарки"
+"Share" = "Поделиться  "
+"Interactive" = "Взаимодействующие"
+"My Rewards" = "Мои награды"
+"times" = "раз"
+//拉黑页
+"No blocked accounts" = "Нет блокированных аккаунтов"
+"No followings" = "Никому не подписали"
+"No followers" = "Нет подписчиков"
+"No broadcasts" = ""
+//设置页
+"Feedback" = "Отзывы"
+"Kitty Live Feedback" = ""
+"Terms of Service" = "Солашения о сервисе"
+"Privacy Policy" = "Конфиденциальность"
+"Version" = "Версия"
+"Log Out" = "Выход"
+"No moon" = "Нет лун"
+//搜索页
+" Search" = "поиск"
+"No results" = "Нет результатов"
+"Block" = "Блокировать  "
+"Follow" = "Подписать"
+"Unblock" = "Разблокировать"
+" Name, ID" = "Имя, ID"
+//直播预开始页
+"Preparing..." = "Подготовливается..."
+"Start Broadcast" = "Начните стримить"
+"Turn on Location Services" = "Включить Сервис местонахождения"
+"【Settings】→【Privacy】→【Location Services】→【While Using the App】" = "【Настройки】→【Конфиденциальность】→【Сервис местонахождения】→【При использовании этого App】"
+"Turn On" = "Включить"
+"Broadcast failed. Please try again later." = ""
+"You are not permitted to broadcast since you have been blocked by the administrator." = "Вас не допускают стримить из-за того что вас блокирует администратор."
+//直播页
+"What are you doing now?" = "Что ты делаешь?"
+"No connection. Please check your network." = "Связь пропала. Проверьте сеть пожалуйста."
+"Sent " = "Отправлено"
+"OK" = "ОК"
+"Stop broadcast?" = "Остановить трансляцию?"
+//"Are you sure to exit?" = "คุณแน่ใจที่จะออกจากระบบ?";
+"The VJ left temporarily." = "VJ вышел временно."
+"The VJ is back." = "VJ вернулся."
+" and got " = ""
+"Each bullet msg will costs 5 rubies" = ""
+" shared the broadcast on " = ""
+//直播间
+"LIVE END" = "Стрим закончился"
+"Back" = "Назад"
+"Home" = "Дом"
+"Report this account?" = "Пожаловаться на этот аккаунт?"
+"Reported" = "Пожаловалось"
+"Report failed" = "Пожаловаться не удалось"
+"Block this account?" = "Блокировать этот аккаунт?"
+"Blocked" = "Блокировали"
+"Block Failed" = ""
+"Likes" = "Лайкс"
+"Viewers" = "Зрители"
+"Lasted " = ""
+"Your broadcast has been stopped by administrator." = "Ваш стрим остановился администратором."
+"Broadcast stopped by Kitty Live Administrator" = ""
+"Don’t cross the line" = "Не пересекать линию"
+"Nudity or sexual content" = ""
+"Violent or graphic content" = ""
+"Harmful or dangerous content" = ""
+"Other hateful content" = ""
+"Awesome #livestream on " = ""
+"Awesome #Replay on " = ""
+"Open your eyes and see " = ""
+"Awesome #Replay on %1$s #KittyLive %2$s!#OpenYourEyes and see %3$s." = "Прикольные #Реплей на %1$s #KittyLive %2$s!#Обращаете внимание и смотрите %3$s."
+"I'm livestreaming on #KittyLive, share the best moments, invite you to participate!" = ""
+"Wow! Thank you! Love your gifts." = ""
+"Manually saving screenshots to albums failed" = "Сохранить скриншот в альбомы вручную не удалось"
+"Kitty Live haven't permission to access albums yet, the screenshot can't be saved to your local album automatically, don't forget to open the system permissions in settings!" = "Kitty Live не имеет дпуск к альбомам, снимки экрана не могут сохраниться в локальные альбом автоматически, не забудьте включить допуск в настройки!"
+"Screenshots have been saved to album successfully" = "Симок экрана сохранен в альбом."
+"VJ will be back soon" = ""
+"VJ is back,live is ready to start" = ""
+"Great! Never missed live again, there is replay here." = ""
+"I followed and am waiting for next great live." = ""
+//个人编辑页
+"Profile" = "Профиль"
+"Avatar" = "Фото профиля"
+"Name" = "Имя "
+"Gender" = "Пол"
+"Description" = "Описание"
+"Choose a photo" = "Выберите фотографию"
+"Take a photo" = "Сделать снимок"
+"Save" = "Сохранить"
+"Male" = "Мужской"
+"Female" = "Женская"
+"Please enter the correct Email" = "Введите правильный Email"
+//聊天信息框
+" joined" = "учавствовал"
+"NOTICE: " = ""
+" followed the VJ" = ""
+" is blocked" = ""
+"liked this " = ""
+"sent a " = "ส่ง";//
+"The name should be less than 30 characters" = "Имя должно меньше 30 символов"
+"Sign In" = "Регистрировать"
+"The number and password you entered don't match." = "Цифры и пароль вы ввели не совпадают."
+"Blocked Accounts" = "Заблокированные аккаунты"
+"Feedback" = "Отзывы"
+//"Enable access to your camera to start broadcast." = "เปิดใช้งานกล้องเพื่อเริ่มการออนแอร์";
+"To broadcast live video, Kitty Live needs permission to access the camera on your device." = "Для того чтобы начать стримить, Kitty Live востребует допуск к тспользованию фотоаппараты на вашем устройстве."
+"Enable" = "Включен"
+//"Enable access to your microphone to start broadcast." = "เปิดใช้งานไมโครโฟนเพื่อเริ่มการออนแอร์";
+"To broadcast live video, Kitty Live needs permission to access the microphone on your device." = "Для того чтобы начать видео стрим, Kitty Live потребует допуск к микрофону на вашем устройстве"
+"Likes" = "Лайкс"
+"Tap next to get an SMS confirmation" = "Кликните "дальше" для получения подтверждающую СМС"
+"Select Country" = "Выберите страну"
+"Login failed. Please try again later." = "Войти не удалось, попробуйте ещё раз позднее."
+"Say something..." = "Говорите что-нибудь..."
+
+//礼物界面
+"Buy More" = "Покупайте больше"
+"SEND" = "ОТПРАВИТЬ"
+"Insufficient rubies. Please buy more." = "Рубины недостаточны. Покупайте больше."
+"Gift not ready. Please try later." = "Подарок не подготовлен, попробуйте позднее."
+"Kitty Assistant" = "Kitty помощник"
+//升级
+"A new version of Kitty Live is available. Please update it." = "Новая версия Kitty Live выпушена, Обновьте пожалуйста."
+"Update" = "Обновить"
+//协议页面
+"Agree and Continue" = "Согласоваться и продолжать"
+//pay
+"In-app purchase forbidden" = "Покупка в приложение была запрешена"
+"Purchase failed" = "Покупка не удалась"
+//"Purchase canceled" = "การสั่งซื้อถูกยกเลิก";
+"Payment successful" = "Оплата выполнена"
+"Product not found" = "Продукция не найдена"
+"DONE" = "Выполнено"
+"This will costs you " = ""
+" moon. Sure to exchange?" = ""
+"Insufficient moon. You don't have enough moon to buy this." = ""
+//"Buy Rubies" = "ซื้อ Rubies";
+//"Exchange Rubies" = "แลกเปลี่ยน Rubies";
+"Exchange" = "Обмен"
+"Notification" = "Уведомления"
+"Live Notification" = "Уведомления стримов"
+"Total" = "Тотальный"
+"Balance" = "Баланс"
+"100% First Recharge Bonus" = "100% Бонус первого вложения средств"
+"This is only for the first time recharge." = "Только для первого вложения средств"
+"Bonus" = "Бонус"
+
+//"If you have any questions please contact us:" = "ถ้าหากมีปัญหาอะไรกรุณาติดต่อเรา:";
+"If you have any questions please \n   contact us:" = ""
+" service@kitty.live" = ""
+//通知页面
+//"Nofification" = "";
+//"Do not disturb" = "ห้ามรบกวน";
+//"Followed User Goes Live" = "";
+//查看大图
+"Save" = "Сохранить"
+"Cancel" = "Отменить"
+"Saved" = "Сохранено"
+"Save failed" = "Сохранение не удалось"
+"Kitty Live Top Up" = ""
+"Kitty Live Exchange" = ""
+//Sticker
+"Done" = "Выполнено"
+"Discard changes and quit?" = "Отменить изменения и бросать"
+"You can only add one sticker." = "Вы сможете добавить только один стикер."
+
+// 修改密码
+"Change Password" = "Изменить пароль"
+" Old password" = "Старый пароль"
+" New password" = "Новый пароль"
+" Confirm" = "Подтверждать"
+"Forgot Password?" = "Забыли пароль?"
+"Passwords do not match." = ""
+"Incorrect old password." = ""
+"Forgot Password" = "Забыли пароль "
+"CONTINUE" = "ПРОДОЛЖАТЬ"
+"We’ll send you a code to confirm this account is yours." = "Мы вышлём вам код для подтверждения вашего личности."
+"Password change failed." = ""
+" Enter your new password" = "Введите новый пароль"
+
+//推荐关注
+"Recommended VJ" = "Рекомендующие VJ"
+"Amazing content will notify you at the first time" = "Уведомляют вам о прикольных содержаниях в первую очередь"
+"Done" = "Выполнено"
+//任务
+"   Basic Task" = "Основные задачи"
+//"Upload Profile Picture" = "อัพโหลดรูปโปรไฟล์";
+//"Binding with E-mail" = "เชื่อมต่อ E-mail";
+//"Binding with Phone" = "เชื่อมต่อมือถือ";
+//"Complete in register" = "ลงทะเบียนเสร็จเรียบร้อย";
+"Collected" = ""
+"Congratulations, receive successfully！" = ""
+"Completed in basic task can get 10 Rubies." = ""
+"   Daily Task" = "Ежедневные задачи"
+"Receive 10 Rubies" = "Получить 10 рубинов"
+//任务引导
+"Millions of Rubies for free" = "Миллион рубинов бесплатны"
+"Complete the task, then you can get 10 Rubies. You can participate in the Page Me - Task" = ""
+"Get it now" = "Получи сейчас"
+"Get " = ""
+
+// 他人页
+"Replays" = "Реплей  "
+"Unknown" = "Неопределенной"
+//"Untitled" = "ไม่ได้ตั้งชื่อ";
+"Delete" = "Удалить"
+"Edit" = "Редактировать"
+"Select All" = "Выбрать всё"
+"Sure to delete?" = "Уверены удалить"
+"Replay deleted successfully" = "Реплей удален"
+"Failed to delete" = "Не удалось удалить"
+
+"Binding Failed" = "Привязка не удалась"
+"Autosave Replays" = "Автосохранение Реплеев"
+"Replays less than 5 mins will not be saved" = "Реплей меньше 5 мин не будет сохраняться"
+"Failed to play" = ""
+
+"Remark: Completing in the same task can only receive prize 1 time." = ""
+"Binding Failed" = "Привязка не удалась"
+"Get the extra " = ""
+"Task" = "Задачи"
+//变脸
+"Open your mouth" = "Откройте рот"
+"Blink your eyes" = "Подмигивайте"
+"No Replays" = "Нет реплеев"
+"Let's do aegyo 1,2,3!" = "Будь собой! Будь красавчиком! Любое время, любое место!"
+"Blink or open mouth" = "Подмигивайте, или откройте рот"
+//直播间引导
+"Swipe left or right to change room" = "Смахните налево или направо чтобы переключить комнату"
+"Follow vj then you just subscribe the vj's live streaming directly!" = ""
+"Share to enhance the EXP, upgrade much more fast!" = "Поделиться чтобы увеличивать Опыт, повышать уровень гораздо быстрее! "
+"Send gifts to help upgrade fastest!" = "Отправить подарки и уровень повышается быстрее."
+"Share the best moments of your livestreaming." = "Поделитесь лучщие моменты вашего лайвстриминга."
+
+"Trending TAGS" = "Тренд теги"
+"More" = ""
+"Following VJ" = "Мои VJ"
+"Latest Streams" = "Последние стримы"
+"Countries" = "Страны"
+"You are not permitted to broadcast since you have been blocked by the administrator." = "Вас не допускают стримить из-за того что вас блокирует администратор."
+//分享
+"Share with friends" = "Поделиться с друзьями"
+"Successfully shared" = "Успешно поделился"
+"Failed to share" = "Не удалось подеоиться"
+"I'm #OnAir, so come and watch me LIVE on #KittyLive!" = ""
+
+"Delete Replay" = "Удалить реплей"
+
+"About Us" = ""
+"Rate us on Appstore" = ""
+
+" new messages" = ""
+"VJ will be back soon" = ""
+"VJ is back,live is ready to start" = ""
+"Please rate us five stars" = ""
+"5 Rtar Rating" = ""
+"Complain" = ""
+"Next time" = ""
+"preview" = ""
+"Not good internet connection" = ""
+"You are connecting Non-WiFi Internet" = ""
+"Saved to album" = ""
+"Failed to album" = ""
+
+//明星版提示 只对泰、英文国际化
+"The customized skin of Mai Davika is coming! Let's play together with hot idol ~" = ""
+"Use old theme" = ""
+"Try new theme" = ""
+"I'm broadcasting. Join me!" = ""
+"JOIN" = ""
+"Get Started" = ""
+
+"Check" = ""
+"Congratulations to %1$s reaching Lv.%2$d!" = ""
+
+//1.8.3
+"This feature requires user level 15 or user verificated." = ""
+"Follow me pls, you will never miss my live." = ""
+"Click and show your self." = ""
+"Follow me pls, you will never miss my live." = ""
+"Great live right? Why not share to your friends?" = ""
+"Appreciate your gifts, I'm feeling full powerful now." = ""
+"Try to take picture of me.[Shy]" = ""
+"A great live starts from a high definiation photo as avatar. Upload now!" = ""
+"Cool, Pretty, Awesome are all in Kitty Face." = ""
+"Clicking! You can find your picture in Photos" = ""
+"I'm live, let all your friends know. Share!" = ""
